@@ -43,7 +43,7 @@ When looking into the data sheet, generally the format are like:
 Book   Book     Shelf                       Member  Checkout
 type    ID      No          Book Title      ID*     Date         Author
 -----|--------|-----|---------------------|-------|------------|---------|
-B	    1009	U818	The Da Vinci Code	0   	2021-11-19	Dan Brown
+B       1009	U818	The Da Vinci Code	0   	2021-11-19	Dan Brown
 P	    1037	P002	The Toronto SUN	    0	    2021-11-18
 
 *note: a book is available when its *Member ID* shows "0", otherwise it displays the member number of the book borrower.
